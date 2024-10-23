@@ -1,15 +1,31 @@
-# Swift UI Calculator
+# SwiftUI Calculator
 
-A simple yet powerful calculator application built using Swift UI. This application demonstrates the use of industry-standard practices, including the implementation of multidimensional arrays for efficient calculation handling.
+Welcome to the **SwiftUI Calculator**! This application is designed to provide a clean and efficient user experience for performing basic arithmetic operations. Built with SwiftUI, it leverages a structured architecture using models and views to organize the various components of the project. 
+
+## Overview
+
+The calculator utilizes multidimensional arrays (matrices) to manage the layout of its keys, ensuring that each button is positioned accurately within the graphical user interface (GUI). This approach not only simplifies the arrangement of the keys but also enhances the maintainability of the code.
 
 ## Table of Contents
 
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
+- [Architecture](#architecture)
 - [Contributing](#contributing)
 - [License](#license)
 
+## Features
+
+- **User-Friendly Interface**: Designed with SwiftUI for a modern look and feel, making it easy to use on various devices.
+- **Multidimensional Key Layout**: Each calculator key is organized using matrices, allowing for a clean and logical arrangement of buttons.
+- **Basic Arithmetic Functions**: Supports addition, subtraction, multiplication, and division.
+- **Responsive Design**: Adapts seamlessly to different screen sizes and orientations.
+
 ## Installation
 
-To run this project, you need to have Xcode installed on your macOS. Follow the steps below to set up the project:
+To get started with the SwiftUI Calculator, you'll need Xcode installed on your macOS. Follow the steps below to set up the project:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository.git
