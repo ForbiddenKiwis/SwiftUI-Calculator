@@ -10,10 +10,6 @@ The calculator utilizes multidimensional arrays (matrices) to manage the layout 
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
